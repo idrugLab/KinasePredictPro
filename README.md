@@ -9,6 +9,9 @@ The most important python packages are:
 - hyperopt == 0.2.7
 - numpy == 1.19.5
 
+## **Models**
+
+You can download all the model files from [here](https://github.com/idrugLab/KinasePredictPro/releases/tag/models) and extract them to the root of the repository.
 
 ## **Predict**
 
